@@ -532,8 +532,8 @@
       }
     },
     "src/Node.sol": {
-      "lastModificationDate": 1692294046154,
-      "contentHash": "afd5c3e877e5772bab0cb2782a64f25e",
+      "lastModificationDate": 1692294582057,
+      "contentHash": "5fff8012258ba5d986166ce7700b79fc",
       "sourceName": "src/Node.sol",
       "solcConfig": {
         "settings": {

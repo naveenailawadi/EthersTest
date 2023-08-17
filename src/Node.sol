@@ -18,6 +18,10 @@ contract Node {
         _;
     }
 
+    function getChildrenCount() external view returns (uint256) {
+        return children.length;
+    }
+
     function getChild(uint256 _index) external view returns (address) {
         return children[_index];
     }
